@@ -16,6 +16,7 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 ```javascript
 const nocaffe = {
     myname: "Gabriel",
+    age: "17",
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML5", "CSS3"],
     AboutMe: ["games", "tech", "play", "live in God"],
@@ -26,7 +27,7 @@ const nocaffe = {
         databases: ["MySQL", "MariaDB" ],
     },
 
-    console.log(myname + prnouns + AboutMe + technologies);
+    console.log(myname +17 + prnouns + AboutMe + technologies);
 };
 ```
 
