@@ -13,6 +13,21 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 
 
+
+```javascript
+const nocaffe = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML5", "CSS3"],
+    askMeAbout: ["games", "tech", "theories", "astronomy"],
+    technologies: {
+        backEnd: {
+            js: ["node"],
+        },
+        databases: ["MySQL", "MariaDB" ],
+    },
+};
+```
+
 # Working as:
 Graphic Designer,
 Web Developer,
