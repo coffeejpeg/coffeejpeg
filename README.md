@@ -27,7 +27,7 @@ const nocaffe = {
         databases: ["MySQL", "MariaDB" ],
     },
 
-    console.log(myname +17 + prnouns + AboutMe + technologies);
+    console.log(myname + age + prnouns + AboutMe + technologies);
 };
 ```
 
