@@ -16,7 +16,8 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 Graphic Designer,
 Web Developer,
 Illustrator 2D,
-Game Designer
+Game Designer,
+Audiovisual editor
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
