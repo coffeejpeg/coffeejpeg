@@ -1,6 +1,5 @@
 ## Hi, I'm Gabriel Victor
 I'm currently 17 years old and I'm Junior Web Developer FullStak, I like programming and to play some games. I've been and formed developing 3 years ago on Systems Development and create some scrpits, websites and an game called Smash Toons.
-repository: He/Him...
 
 I'm looking for job...
 How looking to collaborate on projects...
@@ -16,15 +15,18 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 ```javascript
 const nocaffe = {
+    myname: "Gabriel",
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML5", "CSS3"],
-    askMeAbout: ["games", "tech", "theories", "astronomy"],
+    AboutMe: ["games", "tech", "play", "live in God"],
     technologies: {
         backEnd: {
             js: ["node"],
         },
         databases: ["MySQL", "MariaDB" ],
     },
+
+    console.log(myname + prnouns + AboutMe + technologies);
 };
 ```
 
