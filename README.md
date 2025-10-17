@@ -13,7 +13,7 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 
 
-```javascript
+<!-- ```javascript
 const nocaffe = {
     myname: "Gabriel",
     age: "17",
@@ -29,7 +29,7 @@ const nocaffe = {
 
     console.log(myname + age + prnouns + AboutMe.length + technologies);
 };
-```
+``` -->
 
 # Working as:
 Graphic Designer,
@@ -38,7 +38,7 @@ Illustrator 2D,
 Game Designer,
 Audiovisual editor
 
-#### Last update 2025/09/28
+#### Last update 2025/10/17
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
