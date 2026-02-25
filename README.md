@@ -49,6 +49,8 @@ I'm looking for job...
 How looking to collaborate on projects...
 How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
+# Working with:
+
 ## Audiovisual editor
 
 <img src="https://skillicons.dev/icons?i=ae" height="60" alt="ae logo"  />
@@ -78,13 +80,18 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="60" alt="html logo"  />
+  <img width="12" />
+      
   </div>
 
 ### Social Media
 
-  <a href="https://www.linkedin.com/in/gabriel-victordv/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <a href="https://www.linkedin.com/in/gabriel-victordv/"><img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin logo" /></a>
+  <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="insta logo"  />
+  <img width="12" />
 
 
 ###
