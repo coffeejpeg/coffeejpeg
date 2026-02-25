@@ -56,15 +56,18 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 ## Illustrator 2D & Graphic Designer
 
+  <div display="flex", flex-direction="row">
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="60" alt="Adobe Illustrator logo"  />
   <img width="12" />
+  </div>
 
 ## Tech and lang Stack
 
+  <div display="flex", flex-direction="row">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="Js logo"  />
@@ -73,9 +76,9 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-
+  </div>
 
 ###
 
