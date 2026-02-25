@@ -98,7 +98,7 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/coffeejpeg/coffeejpeg/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ### Last update 2026/02/25
 
