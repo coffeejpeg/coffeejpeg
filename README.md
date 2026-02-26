@@ -46,7 +46,7 @@ How to contact me on Discord: @nocaffe or email gabrielportfoliodev@gmail.com...
 
 ### Social Media
 
-  <a href="https://www.linkedin.com/in/gabriel-victordv/"><img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-victordv/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="linkedin logo" /></a>
   <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="insta logo"  />
   <img width="12" />
 
